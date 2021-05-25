@@ -1,0 +1,2 @@
+myself ashish mishra and this is a static files
+dont put sensitive files in static files because in static files all information is public 
